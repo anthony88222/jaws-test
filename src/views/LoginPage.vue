@@ -47,7 +47,7 @@
   function login() {
     alert(`登入帳號：${username.value}\n記住我：${rememberMe.value}`);
   }
-  </script>
+  </script >
   
   <style scoped>
   .login-wrapper {
