@@ -240,5 +240,7 @@
     outline: none;
     text-shadow: 0 0 4px var(--color-primary);
   }
+  /* 無意義 */
+
   </style>
   
