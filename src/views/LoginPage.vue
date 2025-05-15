@@ -173,5 +173,5 @@
     color: var(--color-muted);
     text-shadow: 0 0 3px var(--color-muted);
   }
+  /* 無意義 */
   </style>
-  
