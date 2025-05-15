@@ -194,5 +194,6 @@ const previewImage = [
   box-shadow: 0 0 10px var(--color-primary);
   max-width: 100%;
 }
+/* 無意義 */
 
 </style>
